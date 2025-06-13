@@ -7,9 +7,7 @@
 4. Angelica Happy Grace Harianja	241401130
 5. Risky Jonalson Silaen	        241401010
 
-=====================================================
 ================= Deskripsi Program =================
-=====================================================
 Nama Program: Lotre Gosok Digital (E-Lottery Console Game)
 
 Tujuan Program:
