@@ -21,8 +21,7 @@ Fungsi Utama Program:
 5. Memberi skor berdasarkan jumlah kotak aman yang berhasil dibuka.
 6. Menggunakan gotoxy() untuk mengatur posisi teks di konsol agar tampilan lebih interaktif.
 
-Bahasa Pemrograman:
-C++ dengan bantuan pustaka windows.h untuk tampilan berbasis console (menggunakan fungsi gotoxy() dan Beep()).
+Bahasa Pemrograman: C++
 
 Fitur Khusus:
 1. Penggunaan suara (Beep) untuk memperkuat interaksi pengguna.
@@ -32,3 +31,9 @@ Jumlah bom dan ukuran papan dapat dimodifikasi sesuai kebutuhan.
 
 Output Program:
 Menampilkan papan permainan secara dinamis, status hasil tebakan, dan skor akhir. Jika pengguna membuka semua kotak aman tanpa terkena bom, akan muncul pesan kemenangan. Sebaliknya, jika mengenai bom, permainan berakhir dengan pesan “Game Over”.
+
+================= Gambar Hasil =================
+https://drive.google.com/file/d/1mAN8XMlr6AlwdMNujX4nzCigVvcJXHov/view?usp=sharing
+
+================= Link Video =================
+on going "Jikai Lazarus Group"
