@@ -8,6 +8,7 @@
 5. Risky Jonalson Silaen	        241401010
 
 ================= Deskripsi Program =================
+
 a. Nama Program: Lotre Gosok Digital (E-Lottery Console Game)
 
 b. Tujuan Program:
