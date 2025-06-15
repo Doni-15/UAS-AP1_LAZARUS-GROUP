@@ -37,4 +37,4 @@ https://drive.google.com/file/d/1mAN8XMlr6AlwdMNujX4nzCigVvcJXHov/view?usp=shari
 
 ================= Link Video =================
 
-on going "Jikai Lazarus Group"
+https://youtu.be/K2P6EhD7mEI
